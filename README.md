@@ -51,7 +51,7 @@ Launch indirect.launch in third terminal:
 source devel/setup.bash
 roslaunch udm_project_control direct.launch
 ```
-** Calling function **
+**Calling function**
 Launch in third terminal:
 ```
 source devel/setup.bash
