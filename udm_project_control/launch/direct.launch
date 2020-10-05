@@ -1,0 +1,7 @@
+<launch>
+
+	<node name="move_group_leg" pkg="udm_project_control" type="direct_kin_service.py" >
+		<param name="group_name" value="front_left_leg"/>
+	</node>
+
+</launch>
